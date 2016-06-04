@@ -8,5 +8,9 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene6.0/lucene-analyzers-common-6.0.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene6.0/lucene-core-6.0.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/lucene6.0/lucene-highlighter-6.0.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commonlang/commons-lang-2.6.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
